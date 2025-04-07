@@ -6,7 +6,7 @@ import Flag from 'react-world-flags';
 
 function HeroSection() {
   return (
-    <section className="relative bg-gradient-to-br from-white via-sky-50 to-sky-100 py-20 overflow-hidden">
+    <section className="relative bg-gradient-to-br from-white via-sky-50 to-sky-100 py-20 overflow-hidden mt-20">
       <div className="container mx-auto px-6">
         <motion.div
           initial={{ opacity: 0, y: 50 }}

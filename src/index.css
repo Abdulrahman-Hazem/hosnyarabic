@@ -99,13 +99,13 @@ button {
   border-color: black;
   font-weight: 500;
   font-family: inherit;
-  background-color: #1a1a1a;
+  background-color: white;
   cursor: pointer;
   transition: border-color 0.25s;
 }
 
 button:hover {
-  border-color: #646cff;
+  border-color: #0084D1;
 }
 button:focus,
 button:focus-visible {
